@@ -6,7 +6,7 @@
 
 ## 2. Bist30 Price Forecasting Project
 
-Our forecasting model's code in Python and our project report.
+Our forecasting model's code in html file and our project report.
 
 ## 3. Our project on urban segregation:
 We use mobile phone data, along with the abstract for NetMob.
